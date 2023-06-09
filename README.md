@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages and Tools:
+
+Kubernetes Docker Terraform Ruby Go JavaScript GCP AWS PostgreSQL MySQL
